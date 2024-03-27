@@ -8,9 +8,8 @@
 
 🌐 You can Play With Your Friends Online (ONLINE FIX ADDED)
 
- =====================================================
-                    Steps To Follow      		      
- =====================================================
+
+                     |Steps To Follow|
 
 1 - Extract The 'AmongUs_Ph453Z3r0.rar' (You Can Use Winrar Or 7-Zip)
                   ----------------------------	           
